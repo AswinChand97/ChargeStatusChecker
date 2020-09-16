@@ -6,7 +6,7 @@
     <string name="com.gpa.battery_status_app_level_preference">Application level preference</string>
     <string name="com.gpa.battery_status_channel_name">Battery Status Notification</string>
     <string name="com.gpa.battery_status_channel_description">This displays the notification when the charge percentage has reached a safe level</string>
-    <string name="com.gpa.battery_status_channel_id">battery_status_notification</string>
+    <string name="com.gpa.battery_status_channel_id" translatable="false">battery_status_notification</string>
     <string name="com.gpa.battery_status_notification_title">Safe charge limit reached</string>
     <string name="com.gpa.battery_status_Alert_Switch_Label">Alert Switch : Keep this turned off to stop receiving the alerts</string>
     <string name="com.gpa.battery_status_Alert_Switch_Description">Turn off this to stop receiving the alert</string>
