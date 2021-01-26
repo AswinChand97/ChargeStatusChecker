@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Safe Charger</string>
+    <string name="open_drawer">Abrir barra</string>
+    <string name="close_drawer">Cerrar barra</string>
+    <string name="com.gpa.battery_status_preference">Ajustes de estado de batería</string>
+    <string name="com.gpa.battery_status_app_level_preference">Preferencias de nivel de aplicación</string>
+    <string name="com.gpa.battery_status_channel_name">Notificaciones del estado de batería</string>
+    <string name="com.gpa.battery_status_channel_description">Esto muestra la notificación cuando el porcentaje de carga ha alcanzado un nivel seguro</string>
+    <string name="com.gpa.battery_status_notification_title">Se alcanzó el límite de carga segura</string>
+    <string name="com.gpa.battery_status_Alert_Switch_Label">Interruptor de alerta: mantén esto desactivado para dejar de recibir las alertas</string>
+    <string name="com.gpa.battery_status_Alert_Switch_Description">Desactive esto para dejar de recibir la alerta</string>
+    <string name="com.gpa.battery_status_notification_text">Desconecte el teléfono del cargador y elimine esta notificación.</string>
+</resources>
